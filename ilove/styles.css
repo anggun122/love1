@@ -1,7 +1,7 @@
 #btn-make {
   bottom: 200px;
   right: 30px;
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(62, 39, 35, 1);
 }
 .div_btn {
   position: fixed;
@@ -21,9 +21,10 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 body {
-  background: #000;
-  height: 100vh;
-  overflow: hidden;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #3E2723  !important;
 }
 
 #ui .love {
